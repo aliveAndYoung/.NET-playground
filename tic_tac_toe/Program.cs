@@ -1,10 +1,14 @@
-﻿namespace mainFlow
+﻿using tic_tac_toe;
+
+namespace mainFlow
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello_World");
+
+            Game myGame = new Game();
+            myGame.Start();
         }
     }
 }
