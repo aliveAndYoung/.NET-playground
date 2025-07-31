@@ -10,13 +10,17 @@ namespace tic_tac_toe
     {
         public string Name { get; set; }
         public char Sign { get; set; } = '~';
-        public Player( string _name , char _sign )
-        {
-            Name = _name ?? "noName?";
-            Sign = _sign;
-            Console.WriteLine( "Player cstor called" );
-            Console.WriteLine( $"{Name} ==> {Sign} " );
-        }
+        
+        
+//to be used with PC player mode
+        //public Player( string _name , char _sign )
+        //{
+        //    Name = _name ?? "noName?";
+        //    Sign = _sign;
+        //    Console.WriteLine( $"Player Ready : {Name} ==> {Sign} " );
+
+        //}
+
         public Player()
         {
             Console.WriteLine( "enter the player's name  :" );
@@ -25,20 +29,64 @@ namespace tic_tac_toe
                 _name = "noName";
             Name = _name;
 
-
             ChangeSign();
+            Console.WriteLine( $"Player Ready : {Name} ==> {Sign} " );
+        }
 
-            Console.WriteLine( "Player cstor called" );
-            Console.WriteLine( $"{Name} ==> {Sign} " );
+        public int GetMove( int[] options )
+        {
+            int Move = 0;
+            Console.WriteLine( $"{Name}'s :" );
+            Console.WriteLine( "available nodes :" );
+            StringBuilder choices = new StringBuilder();
+            foreach ( int choice in options )
+                choices.Append( $"{choice} ," );
+            choices.Remove( choices.Length - 1 , 1 );
+            Console.WriteLine( choices.ToString() );
+            string hisChoice = "NA";
+            while ( hisChoice == "NA" )
+            {
+                string res = Console.ReadLine() ?? "";
+                if ( int.TryParse( res , out int parsed ) )
+                {
+                    for ( int i = 0 ; i < options.Length ; i++ )
+                    {
+                        if ( options[ i ] == parsed )
+                        {
+                            Move = parsed;
+                            hisChoice = "valid res";
+                            break;
+                        }
+                    }
+                    if ( hisChoice == "NA" )
+                        Console.WriteLine( "    INVALID INPUT , try again" );
+                }
+            }
+            return Move;
         }
         public void ChangeSign()
         {
-            Console.WriteLine( $"enter {Name}'s used sign  :" );
-            char _sign = Console.ReadKey().KeyChar;
-            if ( _sign == '\r' )
-                _sign = '~';
-            //to skip the char line and move the cursor to the next
-            Console.WriteLine();
+            char _sign;
+            bool validInput = false;
+
+            do
+            {
+                Console.WriteLine( $"Enter {Name}'s sign (any non-number character):" );
+                ConsoleKeyInfo keyInfo = Console.ReadKey();
+                _sign = keyInfo.KeyChar;
+
+                validInput = !char.IsDigit( _sign ) && keyInfo.Key != ConsoleKey.Enter;
+
+                if ( !validInput )
+                {
+                    Console.WriteLine( "\nInvalid input! Please use a non-number character." );
+                }
+                else
+                {
+                    Console.WriteLine(); // Move to next line after valid input
+                }
+            } while ( !validInput );
+
             Sign = _sign;
         }
     }
