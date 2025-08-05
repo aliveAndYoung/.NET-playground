@@ -1,0 +1,1370 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Year": 1994,
+    "Director": "Frank Darabont",
+    "Actors": [ "Tim Robbins", "Morgan Freeman", "Bob Gunton" ],
+    "Genre": "Drama",
+    "Rating": 9.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Godfather",
+    "Year": 1972,
+    "Director": "Francis Ford Coppola",
+    "Actors": [ "Marlon Brando", "Al Pacino", "James Caan" ],
+    "Genre": "Crime",
+    "Rating": 9.2,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": 2008,
+    "Director": "Christopher Nolan",
+    "Actors": [ "Christian Bale", "Heath Ledger", "Aaron Eckhart" ],
+    "Genre": "Action",
+    "Rating": 9.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": 1994,
+    "Director": "Quentin Tarantino",
+    "Actors": [ "John Travolta", "Uma Thurman", "Samuel L. Jackson" ],
+    "Genre": "Crime",
+    "Rating": 8.9,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Fight Club",
+    "Year": 1999,
+    "Director": "David Fincher",
+    "Actors": [ "Brad Pitt", "Edward Norton", "Helena Bonham Carter" ],
+    "Genre": "Drama",
+    "Rating": 8.8,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Inception",
+    "Year": 2010,
+    "Director": "Christopher Nolan",
+    "Actors": [ "Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page" ],
+    "Genre": "Sci-Fi",
+    "Rating": 8.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Matrix",
+    "Year": 1999,
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": [ "Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss" ],
+    "Genre": "Sci-Fi",
+    "Rating": 8.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Goodfellas",
+    "Year": 1990,
+    "Director": "Martin Scorsese",
+    "Actors": [ "Robert De Niro", "Ray Liotta", "Joe Pesci" ],
+    "Genre": "Crime",
+    "Rating": 8.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Year": 1991,
+    "Director": "Jonathan Demme",
+    "Actors": [ "Jodie Foster", "Anthony Hopkins", "Scott Glenn" ],
+    "Genre": "Thriller",
+    "Rating": 8.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": 2014,
+    "Director": "Christopher Nolan",
+    "Actors": [ "Matthew McConaughey", "Anne Hathaway", "Jessica Chastain" ],
+    "Genre": "Sci-Fi",
+    "Rating": 8.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Green Mile",
+    "Year": 1999,
+    "Director": "Frank Darabont",
+    "Actors": [ "Tom Hanks", "Michael Clarke Duncan", "David Morse" ],
+    "Genre": "Drama",
+    "Rating": 8.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": 2001,
+    "Director": "Peter Jackson",
+    "Actors": [ "Elijah Wood", "Ian McKellen", "Viggo Mortensen" ],
+    "Genre": "Adventure",
+    "Rating": 8.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": 2002,
+    "Director": "Peter Jackson",
+    "Actors": [ "Elijah Wood", "Ian McKellen", "Viggo Mortensen" ],
+    "Genre": "Adventure",
+    "Rating": 8.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": 2003,
+    "Director": "Peter Jackson",
+    "Actors": [ "Elijah Wood", "Ian McKellen", "Viggo Mortensen" ],
+    "Genre": "Adventure",
+    "Rating": 8.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Forrest Gump",
+    "Year": 1994,
+    "Director": "Robert Zemeckis",
+    "Actors": [ "Tom Hanks", "Robin Wright", "Gary Sinise" ],
+    "Genre": "Drama",
+    "Rating": 8.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Usual Suspects",
+    "Year": 1995,
+    "Director": "Bryan Singer",
+    "Actors": [ "Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri" ],
+    "Genre": "Crime",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Se7en",
+    "Year": 1995,
+    "Director": "David Fincher",
+    "Actors": [ "Morgan Freeman", "Brad Pitt", "Kevin Spacey" ],
+    "Genre": "Crime",
+    "Rating": 8.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Prestige",
+    "Year": 2006,
+    "Director": "Christopher Nolan",
+    "Actors": [ "Christian Bale", "Hugh Jackman", "Scarlett Johansson" ],
+    "Genre": "Drama",
+    "Rating": 8.5,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Gladiator",
+    "Year": 2000,
+    "Director": "Ridley Scott",
+    "Actors": [ "Russell Crowe", "Joaquin Phoenix", "Connie Nielsen" ],
+    "Genre": "Action",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Departed",
+    "Year": 2006,
+    "Director": "Martin Scorsese",
+    "Actors": [ "Leonardo DiCaprio", "Matt Damon", "Jack Nicholson" ],
+    "Genre": "Crime",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Lion King",
+    "Year": 1994,
+    "Director": "Roger Allers, Rob Minkoff",
+    "Actors": [ "Matthew Broderick", "Jeremy Irons", "James Earl Jones" ],
+    "Genre": "Animation",
+    "Rating": 8.5,
+    "RatingCategory": "G"
+  },
+  {
+    "Title": "Whiplash",
+    "Year": 2014,
+    "Director": "Damien Chazelle",
+    "Actors": [ "Miles Teller", "J.K. Simmons", "Paul Reiser" ],
+    "Genre": "Drama",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Back to the Future",
+    "Year": 1985,
+    "Director": "Robert Zemeckis",
+    "Actors": [ "Michael J. Fox", "Christopher Lloyd", "Lea Thompson" ],
+    "Genre": "Adventure",
+    "Rating": 8.5,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "The Pianist",
+    "Year": 2002,
+    "Director": "Roman Polanski",
+    "Actors": [ "Adrien Brody", "Thomas Kretschmann", "Frank Finlay" ],
+    "Genre": "Biography",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Parasite",
+    "Year": 2019,
+    "Director": "Bong Joon Ho",
+    "Actors": [ "Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong" ],
+    "Genre": "Comedy",
+    "Rating": 8.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Terminator",
+    "Year": 1984,
+    "Director": "James Cameron",
+    "Actors": [ "Arnold Schwarzenegger", "Linda Hamilton", "Michael Biehn" ],
+    "Genre": "Sci-Fi",
+    "Rating": 8.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Terminator 2: Judgment Day",
+    "Year": 1991,
+    "Director": "James Cameron",
+    "Actors": [ "Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong" ],
+    "Genre": "Sci-Fi",
+    "Rating": 8.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Alien",
+    "Year": 1979,
+    "Director": "Ridley Scott",
+    "Actors": [ "Sigourney Weaver", "Tom Skerritt", "John Hurt" ],
+    "Genre": "Horror",
+    "Rating": 8.4,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Aliens",
+    "Year": 1986,
+    "Director": "James Cameron",
+    "Actors": [ "Sigourney Weaver", "Michael Biehn", "Carrie Henn" ],
+    "Genre": "Action",
+    "Rating": 8.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Toy Story",
+    "Year": 1995,
+    "Director": "John Lasseter",
+    "Actors": [ "Tom Hanks", "Tim Allen", "Don Rickles" ],
+    "Genre": "Animation",
+    "Rating": 8.3,
+    "RatingCategory": "G"
+  },
+  {
+    "Title": "Toy Story 2",
+    "Year": 1999,
+    "Director": "John Lasseter",
+    "Actors": [ "Tom Hanks", "Tim Allen", "Joan Cusack" ],
+    "Genre": "Animation",
+    "Rating": 7.9,
+    "RatingCategory": "G"
+  },
+  {
+    "Title": "Toy Story 3",
+    "Year": 2010,
+    "Director": "Lee Unkrich",
+    "Actors": [ "Tom Hanks", "Tim Allen", "Joan Cusack" ],
+    "Genre": "Animation",
+    "Rating": 8.2,
+    "RatingCategory": "G"
+  },
+  {
+    "Title": "Toy Story 4",
+    "Year": 2019,
+    "Director": "Josh Cooley",
+    "Actors": [ "Tom Hanks", "Tim Allen", "Annie Potts" ],
+    "Genre": "Animation",
+    "Rating": 7.7,
+    "RatingCategory": "G"
+  },
+  {
+    "Title": "The Shining",
+    "Year": 1980,
+    "Director": "Stanley Kubrick",
+    "Actors": [ "Jack Nicholson", "Shelley Duvall", "Danny Lloyd" ],
+    "Genre": "Horror",
+    "Rating": 8.4,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Sam Neill", "Laura Dern", "Jeff Goldblum" ],
+    "Genre": "Adventure",
+    "Rating": 8.1,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "E.T. the Extra-Terrestrial",
+    "Year": 1982,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Henry Thomas", "Drew Barrymore", "Peter Coyote" ],
+    "Genre": "Family",
+    "Rating": 7.8,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Indiana Jones and the Raiders of the Lost Ark",
+    "Year": 1981,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Harrison Ford", "Karen Allen", "Paul Freeman" ],
+    "Genre": "Adventure",
+    "Rating": 8.4,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Indiana Jones and the Last Crusade",
+    "Year": 1989,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Harrison Ford", "Sean Connery", "Alison Doody" ],
+    "Genre": "Adventure",
+    "Rating": 8.2,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Saving Private Ryan",
+    "Year": 1998,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Tom Hanks", "Matt Damon", "Tom Sizemore" ],
+    "Genre": "War",
+    "Rating": 8.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Schindler's List",
+    "Year": 1993,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Liam Neeson", "Ralph Fiennes", "Ben Kingsley" ],
+    "Genre": "Biography",
+    "Rating": 8.9,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Jaws",
+    "Year": 1975,
+    "Director": "Steven Spielberg",
+    "Actors": [ "Roy Scheider", "Robert Shaw", "Richard Dreyfuss" ],
+    "Genre": "Adventure",
+    "Rating": 8.0,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "The Social Network",
+    "Year": 2010,
+    "Director": "David Fincher",
+    "Actors": [ "Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake" ],
+    "Genre": "Biography",
+    "Rating": 7.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Zodiac",
+    "Year": 2007,
+    "Director": "David Fincher",
+    "Actors": [ "Jake Gyllenhaal", "Robert Downey Jr.", "Mark Ruffalo" ],
+    "Genre": "Crime",
+    "Rating": 7.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Gone Girl",
+    "Year": 2014,
+    "Director": "David Fincher",
+    "Actors": [ "Ben Affleck", "Rosamund Pike", "Neil Patrick Harris" ],
+    "Genre": "Drama",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Year": 2011,
+    "Director": "David Fincher",
+    "Actors": [ "Daniel Craig", "Rooney Mara", "Christopher Plummer" ],
+    "Genre": "Crime",
+    "Rating": 7.8,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Fargo",
+    "Year": 1996,
+    "Director": "Joel Coen, Ethan Coen",
+    "Actors": [ "William H. Macy", "Frances McDormand", "Steve Buscemi" ],
+    "Genre": "Crime",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "No Country for Old Men",
+    "Year": 2007,
+    "Director": "Joel Coen, Ethan Coen",
+    "Actors": [ "Tommy Lee Jones", "Javier Bardem", "Josh Brolin" ],
+    "Genre": "Crime",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Big Lebowski",
+    "Year": 1998,
+    "Director": "Joel Coen, Ethan Coen",
+    "Actors": [ "Jeff Bridges", "John Goodman", "Julianne Moore" ],
+    "Genre": "Comedy",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "O Brother, Where Art Thou?",
+    "Year": 2000,
+    "Director": "Joel Coen, Ethan Coen",
+    "Actors": [ "George Clooney", "John Turturro", "Tim Blake Nelson" ],
+    "Genre": "Adventure",
+    "Rating": 7.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "True Grit",
+    "Year": 2010,
+    "Director": "Joel Coen, Ethan Coen",
+    "Actors": [ "Jeff Bridges", "Matt Damon", "Hailee Steinfeld" ],
+    "Genre": "Western",
+    "Rating": 7.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Truman Show",
+    "Year": 1998,
+    "Director": "Peter Weir",
+    "Actors": [ "Jim Carrey", "Ed Harris", "Laura Linney" ],
+    "Genre": "Comedy",
+    "Rating": 8.1,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Year": 2004,
+    "Director": "Michel Gondry",
+    "Actors": [ "Jim Carrey", "Kate Winslet", "Tom Wilkinson" ],
+    "Genre": "Drama",
+    "Rating": 8.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Mask",
+    "Year": 1994,
+    "Director": "Chuck Russell",
+    "Actors": [ "Jim Carrey", "Cameron Diaz", "Peter Greene" ],
+    "Genre": "Comedy",
+    "Rating": 6.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Dumb and Dumber",
+    "Year": 1994,
+    "Director": "Peter Farrelly, Bobby Farrelly",
+    "Actors": [ "Jim Carrey", "Jeff Daniels", "Lauren Holly" ],
+    "Genre": "Comedy",
+    "Rating": 7.3,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Ace Ventura: Pet Detective",
+    "Year": 1994,
+    "Director": "Tom Shadyac",
+    "Actors": [ "Jim Carrey", "Courteney Cox", "Sean Young" ],
+    "Genre": "Comedy",
+    "Rating": 6.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Liar Liar",
+    "Year": 1997,
+    "Director": "Tom Shadyac",
+    "Actors": [ "Jim Carrey", "Maura Tierney", "Justin Cooper" ],
+    "Genre": "Comedy",
+    "Rating": 6.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Bruce Almighty",
+    "Year": 2003,
+    "Director": "Tom Shadyac",
+    "Actors": [ "Jim Carrey", "Morgan Freeman", "Jennifer Aniston" ],
+    "Genre": "Comedy",
+    "Rating": 6.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Yes Man",
+    "Year": 2008,
+    "Director": "Peyton Reed",
+    "Actors": [ "Jim Carrey", "Zooey Deschanel", "Bradley Cooper" ],
+    "Genre": "Comedy",
+    "Rating": 6.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Grinch",
+    "Year": 2000,
+    "Director": "Ron Howard",
+    "Actors": [ "Jim Carrey", "Taylor Momsen", "Jeffrey Tambor" ],
+    "Genre": "Comedy",
+    "Rating": 6.2,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Man on the Moon",
+    "Year": 1999,
+    "Director": "Milos Forman",
+    "Actors": [ "Jim Carrey", "Danny DeVito", "Courtney Love" ],
+    "Genre": "Biography",
+    "Rating": 7.4,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Cable Guy",
+    "Year": 1996,
+    "Director": "Ben Stiller",
+    "Actors": [ "Jim Carrey", "Matthew Broderick", "Leslie Mann" ],
+    "Genre": "Comedy",
+    "Rating": 6.1,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Me, Myself & Irene",
+    "Year": 2000,
+    "Director": "Bobby Farrelly, Peter Farrelly",
+    "Actors": [ "Jim Carrey", "Renée Zellweger", "Chris Cooper" ],
+    "Genre": "Comedy",
+    "Rating": 6.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Majestic",
+    "Year": 2001,
+    "Director": "Frank Darabont",
+    "Actors": [ "Jim Carrey", "Martin Landau", "Laurie Holden" ],
+    "Genre": "Drama",
+    "Rating": 6.9,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "I Love You Phillip Morris",
+    "Year": 2009,
+    "Director": "Glenn Ficarra, John Requa",
+    "Actors": [ "Jim Carrey", "Ewan McGregor", "Leslie Mann" ],
+    "Genre": "Biography",
+    "Rating": 6.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Kick-Ass",
+    "Year": 2010,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "Aaron Taylor-Johnson", "Chloë Grace Moretz", "Nicolas Cage" ],
+    "Genre": "Action",
+    "Rating": 7.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Kick-Ass 2",
+    "Year": 2013,
+    "Director": "Jeff Wadlow",
+    "Actors": [ "Aaron Taylor-Johnson", "Chloë Grace Moretz", "Christopher Mintz-Plasse" ],
+    "Genre": "Action",
+    "Rating": 6.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Kingsman: The Secret Service",
+    "Year": 2014,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "Taron Egerton", "Colin Firth", "Samuel L. Jackson" ],
+    "Genre": "Action",
+    "Rating": 7.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Kingsman: The Golden Circle",
+    "Year": 2017,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "Taron Egerton", "Colin Firth", "Julianne Moore" ],
+    "Genre": "Action",
+    "Rating": 6.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Layer Cake",
+    "Year": 2004,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "Daniel Craig", "Tom Hardy", "Sienna Miller" ],
+    "Genre": "Crime",
+    "Rating": 7.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Stardust",
+    "Year": 2007,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "Charlie Cox", "Claire Danes", "Michelle Pfeiffer" ],
+    "Genre": "Adventure",
+    "Rating": 7.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X-Men: First Class",
+    "Year": 2011,
+    "Director": "Matthew Vaughn",
+    "Actors": [ "James McAvoy", "Michael Fassbender", "Jennifer Lawrence" ],
+    "Genre": "Action",
+    "Rating": 7.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Avengers",
+    "Year": 2012,
+    "Director": "Joss Whedon",
+    "Actors": [ "Robert Downey Jr.", "Chris Evans", "Scarlett Johansson" ],
+    "Genre": "Action",
+    "Rating": 8.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Avengers: Age of Ultron",
+    "Year": 2015,
+    "Director": "Joss Whedon",
+    "Actors": [ "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo" ],
+    "Genre": "Action",
+    "Rating": 7.3,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Avengers: Infinity War",
+    "Year": 2018,
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": [ "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo" ],
+    "Genre": "Action",
+    "Rating": 8.4,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Avengers: Endgame",
+    "Year": 2019,
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": [ "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo" ],
+    "Genre": "Action",
+    "Rating": 8.4,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Iron Man",
+    "Year": 2008,
+    "Director": "Jon Favreau",
+    "Actors": [ "Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges" ],
+    "Genre": "Action",
+    "Rating": 7.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Iron Man 2",
+    "Year": 2010,
+    "Director": "Jon Favreau",
+    "Actors": [ "Robert Downey Jr.", "Mickey Rourke", "Gwyneth Paltrow" ],
+    "Genre": "Action",
+    "Rating": 7.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Iron Man 3",
+    "Year": 2013,
+    "Director": "Shane Black",
+    "Actors": [ "Robert Downey Jr.", "Guy Pearce", "Gwyneth Paltrow" ],
+    "Genre": "Action",
+    "Rating": 7.1,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Captain America: The First Avenger",
+    "Year": 2011,
+    "Director": "Joe Johnston",
+    "Actors": [ "Chris Evans", "Hugo Weaving", "Hayley Atwell" ],
+    "Genre": "Action",
+    "Rating": 6.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Captain America: The Winter Soldier",
+    "Year": 2014,
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": [ "Chris Evans", "Scarlett Johansson", "Sebastian Stan" ],
+    "Genre": "Action",
+    "Rating": 7.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Captain America: Civil War",
+    "Year": 2016,
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": [ "Chris Evans", "Robert Downey Jr.", "Scarlett Johansson" ],
+    "Genre": "Action",
+    "Rating": 7.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Thor",
+    "Year": 2011,
+    "Director": "Kenneth Branagh",
+    "Actors": [ "Chris Hemsworth", "Natalie Portman", "Tom Hiddleston" ],
+    "Genre": "Action",
+    "Rating": 7.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Thor: The Dark World",
+    "Year": 2013,
+    "Director": "Alan Taylor",
+    "Actors": [ "Chris Hemsworth", "Natalie Portman", "Tom Hiddleston" ],
+    "Genre": "Action",
+    "Rating": 6.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Thor: Ragnarok",
+    "Year": 2017,
+    "Director": "Taika Waititi",
+    "Actors": [ "Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett" ],
+    "Genre": "Action",
+    "Rating": 7.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Guardians of the Galaxy",
+    "Year": 2014,
+    "Director": "James Gunn",
+    "Actors": [ "Chris Pratt", "Vin Diesel", "Bradley Cooper" ],
+    "Genre": "Action",
+    "Rating": 8.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Guardians of the Galaxy Vol. 2",
+    "Year": 2017,
+    "Director": "James Gunn",
+    "Actors": [ "Chris Pratt", "Zoe Saldana", "Dave Bautista" ],
+    "Genre": "Action",
+    "Rating": 7.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Black Panther",
+    "Year": 2018,
+    "Director": "Ryan Coogler",
+    "Actors": [ "Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o" ],
+    "Genre": "Action",
+    "Rating": 7.3,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Doctor Strange",
+    "Year": 2016,
+    "Director": "Scott Derrickson",
+    "Actors": [ "Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams" ],
+    "Genre": "Action",
+    "Rating": 7.5,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Spider-Man: Homecoming",
+    "Year": 2017,
+    "Director": "Jon Watts",
+    "Actors": [ "Tom Holland", "Michael Keaton", "Robert Downey Jr." ],
+    "Genre": "Action",
+    "Rating": 7.4,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Spider-Man: Far From Home",
+    "Year": 2019,
+    "Director": "Jon Watts",
+    "Actors": [ "Tom Holland", "Samuel L. Jackson", "Jake Gyllenhaal" ],
+    "Genre": "Action",
+    "Rating": 7.5,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Ant-Man",
+    "Year": 2015,
+    "Director": "Peyton Reed",
+    "Actors": [ "Paul Rudd", "Michael Douglas", "Evangeline Lilly" ],
+    "Genre": "Action",
+    "Rating": 7.3,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Ant-Man and the Wasp",
+    "Year": 2018,
+    "Director": "Peyton Reed",
+    "Actors": [ "Paul Rudd", "Evangeline Lilly", "Michael Peña" ],
+    "Genre": "Action",
+    "Rating": 7.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Captain Marvel",
+    "Year": 2019,
+    "Director": "Anna Boden, Ryan Fleck",
+    "Actors": [ "Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn" ],
+    "Genre": "Action",
+    "Rating": 6.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Deadpool",
+    "Year": 2016,
+    "Director": "Tim Miller",
+    "Actors": [ "Ryan Reynolds", "Morena Baccarin", "T.J. Miller" ],
+    "Genre": "Action",
+    "Rating": 8.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Deadpool 2",
+    "Year": 2018,
+    "Director": "David Leitch",
+    "Actors": [ "Ryan Reynolds", "Josh Brolin", "Morena Baccarin" ],
+    "Genre": "Action",
+    "Rating": 7.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Logan",
+    "Year": 2017,
+    "Director": "James Mangold",
+    "Actors": [ "Hugh Jackman", "Patrick Stewart", "Dafne Keen" ],
+    "Genre": "Action",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Wolverine",
+    "Year": 2013,
+    "Director": "James Mangold",
+    "Actors": [ "Hugh Jackman", "Tao Okamoto", "Rila Fukushima" ],
+    "Genre": "Action",
+    "Rating": 6.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X-Men",
+    "Year": 2000,
+    "Director": "Bryan Singer",
+    "Actors": [ "Patrick Stewart", "Hugh Jackman", "Ian McKellen" ],
+    "Genre": "Action",
+    "Rating": 7.4,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X2",
+    "Year": 2003,
+    "Director": "Bryan Singer",
+    "Actors": [ "Patrick Stewart", "Hugh Jackman", "Ian McKellen" ],
+    "Genre": "Action",
+    "Rating": 7.4,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X-Men: The Last Stand",
+    "Year": 2006,
+    "Director": "Brett Ratner",
+    "Actors": [ "Patrick Stewart", "Hugh Jackman", "Halle Berry" ],
+    "Genre": "Action",
+    "Rating": 6.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X-Men: Days of Future Past",
+    "Year": 2014,
+    "Director": "Bryan Singer",
+    "Actors": [ "Patrick Stewart", "Hugh Jackman", "Ian McKellen" ],
+    "Genre": "Action",
+    "Rating": 8.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "X-Men: Apocalypse",
+    "Year": 2016,
+    "Director": "Bryan Singer",
+    "Actors": [ "James McAvoy", "Michael Fassbender", "Jennifer Lawrence" ],
+    "Genre": "Action",
+    "Rating": 6.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Dark Phoenix",
+    "Year": 2019,
+    "Director": "Simon Kinberg",
+    "Actors": [ "James McAvoy", "Michael Fassbender", "Jennifer Lawrence" ],
+    "Genre": "Action",
+    "Rating": 5.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Hangover",
+    "Year": 2009,
+    "Director": "Todd Phillips",
+    "Actors": [ "Bradley Cooper", "Ed Helms", "Zach Galifianakis" ],
+    "Genre": "Comedy",
+    "Rating": 7.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Hangover Part II",
+    "Year": 2011,
+    "Director": "Todd Phillips",
+    "Actors": [ "Bradley Cooper", "Ed Helms", "Zach Galifianakis" ],
+    "Genre": "Comedy",
+    "Rating": 6.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Hangover Part III",
+    "Year": 2013,
+    "Director": "Todd Phillips",
+    "Actors": [ "Bradley Cooper", "Ed Helms", "Zach Galifianakis" ],
+    "Genre": "Comedy",
+    "Rating": 5.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Wedding Crashers",
+    "Year": 2005,
+    "Director": "David Dobkin",
+    "Actors": [ "Owen Wilson", "Vince Vaughn", "Christopher Walken" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Old School",
+    "Year": 2003,
+    "Director": "Todd Phillips",
+    "Actors": [ "Luke Wilson", "Will Ferrell", "Vince Vaughn" ],
+    "Genre": "Comedy",
+    "Rating": 7.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Superbad",
+    "Year": 2007,
+    "Director": "Greg Mottola",
+    "Actors": [ "Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse" ],
+    "Genre": "Comedy",
+    "Rating": 7.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Pineapple Express",
+    "Year": 2008,
+    "Director": "David Gordon Green",
+    "Actors": [ "Seth Rogen", "James Franco", "Danny McBride" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "This Is the End",
+    "Year": 2013,
+    "Director": "Seth Rogen, Evan Goldberg",
+    "Actors": [ "James Franco", "Jonah Hill", "Seth Rogen" ],
+    "Genre": "Comedy",
+    "Rating": 6.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Neighbors",
+    "Year": 2014,
+    "Director": "Nicholas Stoller",
+    "Actors": [ "Seth Rogen", "Zac Efron", "Rose Byrne" ],
+    "Genre": "Comedy",
+    "Rating": 6.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Neighbors 2: Sorority Rising",
+    "Year": 2016,
+    "Director": "Nicholas Stoller",
+    "Actors": [ "Seth Rogen", "Zac Efron", "Rose Byrne" ],
+    "Genre": "Comedy",
+    "Rating": 5.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Interview",
+    "Year": 2014,
+    "Director": "Seth Rogen, Evan Goldberg",
+    "Actors": [ "James Franco", "Seth Rogen", "Lizzy Caplan" ],
+    "Genre": "Comedy",
+    "Rating": 6.5,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Knocked Up",
+    "Year": 2007,
+    "Director": "Judd Apatow",
+    "Actors": [ "Seth Rogen", "Katherine Heigl", "Paul Rudd" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The 40-Year-Old Virgin",
+    "Year": 2005,
+    "Director": "Judd Apatow",
+    "Actors": [ "Steve Carell", "Catherine Keener", "Paul Rudd" ],
+    "Genre": "Comedy",
+    "Rating": 7.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Forgetting Sarah Marshall",
+    "Year": 2008,
+    "Director": "Nicholas Stoller",
+    "Actors": [ "Jason Segel", "Kristen Bell", "Mila Kunis" ],
+    "Genre": "Comedy",
+    "Rating": 7.2,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "I Love You, Man",
+    "Year": 2009,
+    "Director": "John Hamburg",
+    "Actors": [ "Paul Rudd", "Jason Segel", "Rashida Jones" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Role Models",
+    "Year": 2008,
+    "Director": "David Wain",
+    "Actors": [ "Paul Rudd", "Seann William Scott", "Christopher Mintz-Plasse" ],
+    "Genre": "Comedy",
+    "Rating": 6.9,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Step Brothers",
+    "Year": 2008,
+    "Director": "Adam McKay",
+    "Actors": [ "Will Ferrell", "John C. Reilly", "Mary Steenburgen" ],
+    "Genre": "Comedy",
+    "Rating": 6.9,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "Year": 2006,
+    "Director": "Adam McKay",
+    "Actors": [ "Will Ferrell", "John C. Reilly", "Sacha Baron Cohen" ],
+    "Genre": "Comedy",
+    "Rating": 6.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Anchorman: The Legend of Ron Burgundy",
+    "Year": 2004,
+    "Director": "Adam McKay",
+    "Actors": [ "Will Ferrell", "Christina Applegate", "Paul Rudd" ],
+    "Genre": "Comedy",
+    "Rating": 7.2,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Anchorman 2: The Legend Continues",
+    "Year": 2013,
+    "Director": "Adam McKay",
+    "Actors": [ "Will Ferrell", "Christina Applegate", "Paul Rudd" ],
+    "Genre": "Comedy",
+    "Rating": 6.3,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Other Guys",
+    "Year": 2010,
+    "Director": "Adam McKay",
+    "Actors": [ "Will Ferrell", "Mark Wahlberg", "Derek Jeter" ],
+    "Genre": "Comedy",
+    "Rating": 6.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Daddy's Home",
+    "Year": 2015,
+    "Director": "Sean Anders",
+    "Actors": [ "Will Ferrell", "Mark Wahlberg", "Linda Cardellini" ],
+    "Genre": "Comedy",
+    "Rating": 6.1,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Daddy's Home 2",
+    "Year": 2017,
+    "Director": "Sean Anders",
+    "Actors": [ "Will Ferrell", "Mark Wahlberg", "Mel Gibson" ],
+    "Genre": "Comedy",
+    "Rating": 5.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Elf",
+    "Year": 2003,
+    "Director": "Jon Favreau",
+    "Actors": [ "Will Ferrell", "James Caan", "Zooey Deschanel" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "The Lego Movie",
+    "Year": 2014,
+    "Director": "Phil Lord, Christopher Miller",
+    "Actors": [ "Chris Pratt", "Will Ferrell", "Elizabeth Banks" ],
+    "Genre": "Animation",
+    "Rating": 7.7,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "The Lego Movie 2: The Second Part",
+    "Year": 2019,
+    "Director": "Mike Mitchell",
+    "Actors": [ "Chris Pratt", "Elizabeth Banks", "Will Ferrell" ],
+    "Genre": "Animation",
+    "Rating": 6.6,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Megamind",
+    "Year": 2010,
+    "Director": "Tom McGrath",
+    "Actors": [ "Will Ferrell", "Brad Pitt", "Tina Fey" ],
+    "Genre": "Animation",
+    "Rating": 7.2,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Zoolander",
+    "Year": 2001,
+    "Director": "Ben Stiller",
+    "Actors": [ "Ben Stiller", "Owen Wilson", "Will Ferrell" ],
+    "Genre": "Comedy",
+    "Rating": 6.6,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Zoolander 2",
+    "Year": 2016,
+    "Director": "Ben Stiller",
+    "Actors": [ "Ben Stiller", "Owen Wilson", "Will Ferrell" ],
+    "Genre": "Comedy",
+    "Rating": 4.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Tropic Thunder",
+    "Year": 2008,
+    "Director": "Ben Stiller",
+    "Actors": [ "Ben Stiller", "Robert Downey Jr.", "Jack Black" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Meet the Parents",
+    "Year": 2000,
+    "Director": "Jay Roach",
+    "Actors": [ "Robert De Niro", "Ben Stiller", "Teri Polo" ],
+    "Genre": "Comedy",
+    "Rating": 7.0,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Meet the Fockers",
+    "Year": 2004,
+    "Director": "Jay Roach",
+    "Actors": [ "Robert De Niro", "Ben Stiller", "Dustin Hoffman" ],
+    "Genre": "Comedy",
+    "Rating": 6.5,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Little Fockers",
+    "Year": 2010,
+    "Director": "Paul Weitz",
+    "Actors": [ "Robert De Niro", "Ben Stiller", "Owen Wilson" ],
+    "Genre": "Comedy",
+    "Rating": 5.5,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Night at the Museum",
+    "Year": 2006,
+    "Director": "Shawn Levy",
+    "Actors": [ "Ben Stiller", "Carla Gugino", "Dick Van Dyke" ],
+    "Genre": "Adventure",
+    "Rating": 6.4,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Night at the Museum: Battle of the Smithsonian",
+    "Year": 2009,
+    "Director": "Shawn Levy",
+    "Actors": [ "Ben Stiller", "Amy Adams", "Hank Azaria" ],
+    "Genre": "Adventure",
+    "Rating": 6.0,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Night at the Museum: Secret of the Tomb",
+    "Year": 2014,
+    "Director": "Shawn Levy",
+    "Actors": [ "Ben Stiller", "Robin Williams", "Owen Wilson" ],
+    "Genre": "Adventure",
+    "Rating": 6.2,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "There's Something About Mary",
+    "Year": 1998,
+    "Director": "Bobby Farrelly, Peter Farrelly",
+    "Actors": [ "Cameron Diaz", "Matt Dillon", "Ben Stiller" ],
+    "Genre": "Comedy",
+    "Rating": 7.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "DodgeBall: A True Underdog Story",
+    "Year": 2004,
+    "Director": "Rawson Marshall Thurber",
+    "Actors": [ "Vince Vaughn", "Ben Stiller", "Christine Taylor" ],
+    "Genre": "Comedy",
+    "Rating": 6.7,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Heartbreak Kid",
+    "Year": 2007,
+    "Director": "Bobby Farrelly, Peter Farrelly",
+    "Actors": [ "Ben Stiller", "Michelle Monaghan", "Malin Akerman" ],
+    "Genre": "Comedy",
+    "Rating": 5.8,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Secret Life of Walter Mitty",
+    "Year": 2013,
+    "Director": "Ben Stiller",
+    "Actors": [ "Ben Stiller", "Kristen Wiig", "Shirley MacLaine" ],
+    "Genre": "Adventure",
+    "Rating": 7.3,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "The Royal Tenenbaums",
+    "Year": 2001,
+    "Director": "Wes Anderson",
+    "Actors": [ "Gene Hackman", "Anjelica Huston", "Ben Stiller" ],
+    "Genre": "Comedy",
+    "Rating": 7.6,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Life Aquatic with Steve Zissou",
+    "Year": 2004,
+    "Director": "Wes Anderson",
+    "Actors": [ "Bill Murray", "Owen Wilson", "Cate Blanchett" ],
+    "Genre": "Adventure",
+    "Rating": 7.3,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "The Darjeeling Limited",
+    "Year": 2007,
+    "Director": "Wes Anderson",
+    "Actors": [ "Owen Wilson", "Adrien Brody", "Jason Schwartzman" ],
+    "Genre": "Adventure",
+    "Rating": 7.2,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Moonrise Kingdom",
+    "Year": 2012,
+    "Director": "Wes Anderson",
+    "Actors": [ "Jared Gilman", "Kara Hayward", "Bruce Willis" ],
+    "Genre": "Comedy",
+    "Rating": 7.8,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "The Grand Budapest Hotel",
+    "Year": 2014,
+    "Director": "Wes Anderson",
+    "Actors": [ "Ralph Fiennes", "F. Murray Abraham", "Mathieu Amalric" ],
+    "Genre": "Adventure",
+    "Rating": 8.1,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Isle of Dogs",
+    "Year": 2018,
+    "Director": "Wes Anderson",
+    "Actors": [ "Bryan Cranston", "Koyu Rankin", "Edward Norton" ],
+    "Genre": "Animation",
+    "Rating": 7.9,
+    "RatingCategory": "PG-13"
+  },
+  {
+    "Title": "Fantastic Mr. Fox",
+    "Year": 2009,
+    "Director": "Wes Anderson",
+    "Actors": [ "George Clooney", "Meryl Streep", "Bill Murray" ],
+    "Genre": "Animation",
+    "Rating": 7.9,
+    "RatingCategory": "PG"
+  },
+  {
+    "Title": "Rushmore",
+    "Year": 1998,
+    "Director": "Wes Anderson",
+    "Actors": [ "Jason Schwartzman", "Bill Murray", "Olivia Williams" ],
+    "Genre": "Comedy",
+    "Rating": 7.7,
+    "RatingCategory": "R"
+  },
+  {
+    "Title": "Bottle Rocket",
+    "Year": 1996,
+    "Director": "Wes Anderson",
+    "Actors": [ "Luke Wilson", "Owen Wilson", "Robert Musgrave" ],
+    "Genre": "Comedy",
+    "Rating": 7.1,
+    "RatingCategory": "R"
+  }
+]
