@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using my_restaurant.Data;
 
@@ -11,9 +12,11 @@ using my_restaurant.Data;
 namespace my_restaurant.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250818041036_INIT")]
+    partial class INIT
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -324,14 +327,15 @@ namespace my_restaurant.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
-                    b.Property<DateTime>("OrderDate")
-                        .HasColumnType("datetime2");
-
                     b.Property<decimal>("TotalAmount")
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("UserId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<DateTime>("orderDate")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("OrderId");
 
@@ -383,10 +387,6 @@ namespace my_restaurant.Data.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
@@ -408,7 +408,6 @@ namespace my_restaurant.Data.Migrations
                             ProductId = 1,
                             CategoryId = 2,
                             Description = "A delicious beef burger",
-                            ImageUrl = "https://via.placeholder.com/150",
                             Name = "Beef burger",
                             Price = 2.50m,
                             Stock = 100
@@ -418,7 +417,6 @@ namespace my_restaurant.Data.Migrations
                             ProductId = 2,
                             CategoryId = 2,
                             Description = "A delicious chicken burger",
-                            ImageUrl = "https://via.placeholder.com/150",
                             Name = "Chicken burger",
                             Price = 1.99m,
                             Stock = 101
@@ -428,7 +426,6 @@ namespace my_restaurant.Data.Migrations
                             ProductId = 3,
                             CategoryId = 2,
                             Description = "A delicious fish Pasta",
-                            ImageUrl = "https://via.placeholder.com/150",
                             Name = "Fish Pasta",
                             Price = 3.99m,
                             Stock = 90
@@ -567,7 +564,9 @@ namespace my_restaurant.Data.Migrations
                 {
                     b.HasOne("my_restaurant.Models.ApplicationUser", "User")
                         .WithMany("Orders")
-                        .HasForeignKey("UserId");
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("User");
                 });

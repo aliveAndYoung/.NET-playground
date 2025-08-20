@@ -7,7 +7,7 @@ namespace my_restaurant.Models
         public int IngredientId { get; set; }
         public string Name { get; set; }
 
-        //[ValidateNever]
+        [ValidateNever]
         public ICollection<ProductIngredient> ProductIngredients { get; set; }
     }
 }
