@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exploring-LINQ", "exploring
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "my_restaurant", "my_restaurant\my_restaurant.csproj", "{CC303058-CF22-4660-9AD2-E71BBE0031BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "BookStore\BookStore.csproj", "{6D641361-57FA-447C-9F2E-E1091B8CAFF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC303058-CF22-4660-9AD2-E71BBE0031BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC303058-CF22-4660-9AD2-E71BBE0031BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC303058-CF22-4660-9AD2-E71BBE0031BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D641361-57FA-447C-9F2E-E1091B8CAFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D641361-57FA-447C-9F2E-E1091B8CAFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D641361-57FA-447C-9F2E-E1091B8CAFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D641361-57FA-447C-9F2E-E1091B8CAFF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
